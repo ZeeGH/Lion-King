@@ -1,0 +1,10 @@
+{
+  "name": "Can You Feel The Love Tonight - The Lion King (Sega Genesis)",
+  "description": "The Song (Can You Feel The Love Tonight) From The Lion King (Sega Genesis)",
+  "author": "ZeeGH",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
